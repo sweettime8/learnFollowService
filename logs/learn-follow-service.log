@@ -1,0 +1,4 @@
+01-10-2020 09:22:22.494 INFO  c.e.follow.CoLearnFollowApplication.logStarting - Starting CoLearnFollowApplication on DESKTOP-BT67ULK with PID 11580 (D:\Work\CoLearn\SourceCode\CoLearnJavaGitLab\learnFollowService\target\classes started by Admin in D:\Work\CoLearn\SourceCode\CoLearnJavaGitLab\learnFollowService)
+01-10-2020 09:22:22.506 INFO  c.e.follow.CoLearnFollowApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+01-10-2020 09:22:31.854 INFO  c.e.follow.CoLearnFollowApplication.logStarted - Started CoLearnFollowApplication in 10.308 seconds (JVM running for 10.987)
+01-10-2020 09:23:40.001 INFO  c.elcom.follow.schedulers.Scheduler.asdasfadfasdf - go innnnnnnn
